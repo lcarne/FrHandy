@@ -2,7 +2,7 @@
 
 Le French Handy Keyboard Layout for AZERTY users.
 
-This layout allows users to find the simplicity of using a Mac keyboard on a keyboard intended for use on Windows. It especially allows you to write the special character É, È, Ç, and À by pressing CAPS LOCK.
+This layout allows users to find the simplicity of using a Mac keyboard on a keyboard intended for use on Windows. It especially allows you to write special characters É, È, Ç, and À by pressing CAPS LOCK.
 
 It has been created using [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339).
 
