@@ -1,6 +1,6 @@
 # Overview
 
-Le French Handy Keyboard Layout for AZERTY users.
+Mac/Ubuntu keyboard layout on Windows for regular AZERTY keyboards users.
 
 This layout allows users to find the simplicity of using a Mac or Ubuntu keyboard on a keyboard intended for use on Windows. It especially allows you to write special characters É, È, Ç, and À by pressing CAPS LOCK.
 
